@@ -1,0 +1,76 @@
+html, body {
+	height: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+body {
+	font-size: 10pt;
+	font-family: Trebuchet MS,Tahoma,Verdana,sans-serif;
+	background: #ffffff url(http://www.girv.net/img/gradient-top.png) repeat-x top left;
+	color: #222222;
+}
+
+h1 {
+	text-align: center;
+	font-size: 24pt;
+	font-weight: bold;
+	padding: 0px ;
+	margin: 0px ;
+}
+
+h2 {
+	text-align: center;
+	font-size: 16pt;
+	font-weight: bold;
+	padding: 0px ;
+	margin: 0px ;
+}
+
+a {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	color: #ff0000;
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: underline;
+}
+
+td.code {
+	text-align: center;
+	width: 50px;
+}
+td.clicks {
+	text-align: right;
+	width: 50px;
+}
+
+div#header {
+	text-align: center;
+	font-size: 9pt;
+	margin-top: 20px;
+}
+ul.subnav {
+	margin: 0px;
+	padding: 0px;
+	list-style: disc;
+}
+ul.subnav li {
+	display: inline;
+	padding-right: 10px;
+}
+
+table.tablesorter {
+        background: #fefefe url(http://www.girv.net/img-ext/girv-background.png) no-repeat bottom right;
+}
+
+div#footer {
+	margin-top: 20px;
+	text-align: center;
+	font-size: 8pt;
+}

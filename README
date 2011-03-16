@@ -1,0 +1,28 @@
+
+Example index page listing all the URLs held in a YOURLS database.
+Public domain - may be used for any purpose without restriction.
+
+To see it in action:
+http://girv.in
+
+For further information:
+http://www.johngirvin.com/archives/building-a-yourls-index-page.html
+
+===========================================================================
+http://yourls.org
+
+What is YOURLS?
+
+YOURLS is a small set of PHP scripts that will allow you to run your
+own URL shortening service (a la TinyURL). You can make it private or
+public, you can pick custom keyword URLs, it comes with its own API.
+You will love it.
+
+Download YOURLS from Google Code:
+http://code.google.com/p/yourls/downloads/list
+
+YOURLS is made by:
+
+Lester Chan - @GamerZ on Twitter (initial idea)
+Ozh Richard - @Ozh    on Twitter (development)
+===========================================================================
